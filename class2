@@ -1,0 +1,16 @@
+body {
+background-color: red;
+}
+
+h1 {
+text-align: center;
+}
+
+.head1 {
+background -color: turquoise;
+}
+
+#head2 {
+background-color: yellow;
+color: white;
+}
