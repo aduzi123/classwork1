@@ -11,3 +11,34 @@
 <h1 id="head2">heading 3</h1>
 </body>
 </html>
+
+
+body {
+background-color: red;
+}
+
+h1 {
+text-align: center;
+}
+
+.head1 {
+background -color: turquoise;
+}
+
+#head2 {
+background-color: yellow;
+color: white;
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>About</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a href="index.html">Home</a>
+<h1>Classwork 2 about CSS multipage</h1>
+</body>
+</html>
